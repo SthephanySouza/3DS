@@ -1,2 +1,2 @@
 # 3DS
-Junção de todas as matérias técnicas do 3ºano
+Junção de todas as matérias técnicas do 3ºano.
